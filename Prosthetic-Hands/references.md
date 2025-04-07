@@ -39,7 +39,7 @@ This document lists all sources consulted during the development of the prosthet
 
 ## 🎥 Video Resources 
 
-1. **bebionic hand - 14 grip patterns | Ottobock Professionals**  
+1. **bebionic hand - 14 grip patterns | Ottobock Professionals**
    [YouTube](https://www.youtube.com/watch?v=tCAgGVcxrb8)
 
 2. **MyoBock - Overview System Electric Hands | Ottobock Professionals**
