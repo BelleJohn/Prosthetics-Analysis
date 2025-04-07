@@ -4,7 +4,7 @@ This document lists all sources consulted during the development of the prosthet
 
 ---
 
-## 📝 Academic Papers
+## 📝 Academic Papers 
 
 1. **Smith, J. et al. (2021).**  
    _Comparative Performance of Myoelectric Prosthetic Hands in Daily Living Tasks._  
@@ -21,33 +21,33 @@ This document lists all sources consulted during the development of the prosthet
 ## 🏢 Company/Product Pages
 
 1. **Ottobock – bebionic Hand**  
-   [https://www.ottobock.com/en-us/product/8E71](https://www.ottobock.com/en-us/product/8E71)
+   [https://www.ottobock.com/en-us/product/8E70](https://www.ottobock.com/en-us/product/8E70)
 
 2. **Ottobock – Michelangelo Hand**  
    [https://www.ottobock.com/en-us/product/8E500](https://www.ottobock.com/en-us/product/8E500)
 
 3. **Open Bionics – Hero Arm**  
-   [https://openbionics.com/hero-arm/](https://openbionics.com/hero-arm/)
+   [https://openbionics.com/hero-arm-overview/](https://openbionics.com/hero-arm-overview/)
 
 4. **Touch Bionics (Össur) – i-Limb Quantum**  
-   [https://www.ossur.com/en-us/prosthetics/i-limb](https://www.ossur.com/en-us/prosthetics/i-limb)
+   [https://www.ossur.com/en-us/prosthetics/i-limb](https://www.ossur.com/en-us/prosthetics/arms/i-limb-quantum)
 
 5. **TASKA Prosthetics – TASKA Hand**  
-   [https://www.taskaprosthetics.com/taska-hand](https://www.taskaprosthetics.com/taska-hand)
+   [https://www.taskaprosthetics.com/products/taska-cx](https://www.taskaprosthetics.com/products/taska-cx)
 
 ---
 
-## 🎥 Video Resources (Optional)
+## 🎥 Video Resources 
 
-1. **Ottobock: How the bebionic Hand Works**  
-   [YouTube](https://www.youtube.com/watch?v=XXXXXXXX)
+1. **bebionic hand - 14 grip patterns | Ottobock Professionals**  
+   [YouTube](https://www.youtube.com/watch?v=tCAgGVcxrb8)
 
-2. **Open Bionics – Hero Arm User Review**  
-   [YouTube](https://www.youtube.com/watch?v=YYYYYYYY)
+2. **MyoBock - Overview System Electric Hands | Ottobock Professionals**
+   [YouTube](https://www.youtube.com/watch?v=_BPnYP067Vg)
 
 ---
 
-## 🗂 Other Resources
+## 🗂 Other Resources 
 
 - ISO standards for prosthetic device evaluation  
-  (ISO 8548-1: Prosthetics and orthotics — Limb deficiencies — Definitions of terms and classification)
+  (ISO 13405-1:2015 Prosthetics and orthotics — Classification and description of prosthetic components)
