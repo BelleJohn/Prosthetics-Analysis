@@ -6,10 +6,10 @@ This document lists all sources consulted during the development of the prosthet
 
 ## 📝 Academic Papers 
 
-1. **Smith, J. et al. (2021).**  
-   _Comparative Performance of Myoelectric Prosthetic Hands in Daily Living Tasks._  
-   Journal of Prosthetics and Orthotics.  
-   [Link](https://doi.org/10.xxxxxx/jpo.2021.03)
+1. **Silvestro Micera, Solaiman Shokur. (2024).**  
+   _Our research path toward the restoration of natural sensations in hand prostheses._  
+   Artificial Organs.  
+   [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/aor.14823)
 
 2. **Lee, A. & Kim, D. (2022).**  
    _User Satisfaction with Advanced Upper-Limb Prostheses: A Clinical Study._  
