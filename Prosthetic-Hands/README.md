@@ -33,7 +33,7 @@ This document presents an overview of upper-limb prosthetics as of 2025. It incl
 - Devices offer multiple powered joints and degrees of freedom.
 - Allow for grip force feedback, simultaneous motions, and adaptive control.
 
-Reference:
+#### Reference:
 1. [Next-Gen Prosthetic Arms: The Most Anticipated Innovations of 2025-2030](https://www.robobionics.in/blog/next-gen-prosthetic-arms-the-most-anticipated-innovations-of-2025-2030/)
 2. Micera S, Shokur S. Our research path toward the restoration of natural sensations in hand prostheses. Artif. Organs. 2024; 48: 937–942. [https://doi.org/10.1111/aor.14823](https://doi.org/10.1111/aor.14823)
 ---
