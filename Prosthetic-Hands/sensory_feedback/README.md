@@ -1,6 +1,13 @@
 # Sensory Feedback in Upper-Limb Prostheses
 
-Sensory feedback in upper-limb prostheses is a rapidly evolving research area focused on restoring natural interaction with the environment by closing the control loop between users and their artificial limbs. This field integrates neuroscience, engineering, and clinical practice to address critical limitations of current prosthetic devices.
+Sensory feedback in upper-limb prostheses is a rapidly evolving research area focused on restoring natural interaction with the environment by closing the control loop between users and their artificial limbs. This field integrates neuroscience, engineering, and clinical practice to address the critical limitations of current prosthetic devices.
+
+### 📚 Research Topics
+- [Sensory Feedback](./sensory_feedback/README.md)
+  - [Kinesthetic Feedback](./sensory_feedback/kinesthetic_feedback.md)
+    - [Vibrotactile Stimulation](./sensory_feedback/vibrotactile.md)
+    - [Electrotactile (TENS)](./sensory_feedback/electrotactile.md)
+    - [Skin-Stretch Stimulation](./sensory_feedback/skin_stretch.md)
 
 ---
 
