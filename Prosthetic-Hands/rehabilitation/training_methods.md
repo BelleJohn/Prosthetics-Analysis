@@ -115,14 +115,3 @@ Training is essential for helping users learn to control and integrate a prosthe
 
 ---
 
-## 🛠️ How You Could Implement These Without a Lab
-
-You can prototype small-scale training modules:
-
-* **Mirror therapy simulation**: Use webcam + mirrored screen for visualization.
-* **Virtual hand tasks**: Control a virtual prosthetic arm in Unity or Gymnasium.
-* **Feedback demos**: Use Arduino + vibration motors for learning feedback levels.
-* **Task-based tests**: Set up home object manipulation challenges + log performance.
-* **EMG simulation**: Use open EMG datasets + ML models to simulate signal decoding.
-
----
