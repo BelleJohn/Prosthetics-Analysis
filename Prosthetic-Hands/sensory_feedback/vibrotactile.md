@@ -1,3 +1,4 @@
+← [Back to Kinesthetic Feedback Overview](./kinesthetic_feedback.md)
 
 # 🦿 Vibrotactile Stimulation and Soft Inflatable Actuators for Kinesthetic Feedback in Upper Limb Prostheses
 
@@ -88,3 +89,4 @@ The paper ***"An Ultrathin and Lightweight Soft Inflatable Actuator for Natural 
 
 1. Scherer, H., Iberite, F., Caserta, G., Boccardo, N., Carpaneto, J., Gruppioni, E., Micera, S. and Proietti, T. (2025), An Ultrathin and Lightweight Soft Inflatable Actuator for Natural Tactile Sensory Feedback. Adv. Intell. Syst. 2500262. [DOI](https://doi.org/10.1002/aisy.202500262)
 
+← [Back to Kinesthetic Feedback Overview](./kinesthetic_feedback.md)
